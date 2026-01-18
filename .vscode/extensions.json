@@ -19,6 +19,9 @@
     "streetsidesoftware.code-spell-checker",
     "yoavbls.pretty-ts-errors",
 
+    // TESTING
+    "vitest.explorer",
+
     // LANGUAGE SUPPORT
 
     // JavaScript/TypeScript

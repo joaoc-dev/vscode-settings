@@ -1,0 +1,67 @@
+{
+  "recommendations": [
+    // THEMES & ICONS
+    "antfu.theme-vitesse",
+    "sainnhe.gruvbox-material",
+    "catppuccin.catppuccin-vsc-icons",
+    "antfu.icons-carbon",
+
+    // PRODUCTIVITY & NAVIGATION
+    "antfu.browse-lite",
+    "antfu.smart-clicks",
+    "antfu.where-am-i",
+    "alefragnani.bookmarks",
+
+    // CODE QUALITY & LINTING
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "yoavbls.pretty-ts-errors",
+
+    // LANGUAGE SUPPORT
+
+    // JavaScript/TypeScript
+    "ms-vscode.vscode-typescript-next",
+
+    // Python
+    "ms-python.python",
+    "ms-python.debugpy",
+    "anysphere.cursorpyright", // Cursor-specific
+
+    // C/C++
+    "anysphere.cpptools", // Cursor-specific: bundles clangd for IntelliSense
+
+    // C#
+    "anysphere.csharp", // Cursor-specific
+    "ms-dotnettools.vscode-dotnet-runtime",
+    "nromanov.dotrush", // C# snippets & productivity tools
+
+    // UTILITIES & HELPERS
+    "bradlc.vscode-tailwindcss",
+    "lokalise.i18n-ally",
+    "dsznajder.es7-react-js-snippets",
+    "vincaslt.highlight-matching-tag",
+    "naumovs.color-highlight",
+    "pranaygp.vscode-css-peek",
+    "jock.svg",
+    "mikestead.dotenv",
+
+    // VERSION CONTROL
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+
+    // DOCUMENTATION
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-mermaid",
+
+    // TOOLS & ANALYTICS
+    "postman.postman-for-vscode",
+    "wakatime.vscode-wakatime",
+
+    // CONTAINERS
+    "ms-azuretools.vscode-docker",
+    "anysphere.remote-containers", // Cursor-specific (VS Code: ms-vscode-remote.remote-containers)
+    "anysphere.remote-wsl" // Cursor-specific (VS Code: ms-vscode-remote.remote-wsl)
+  ]
+}
